@@ -13,12 +13,12 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or check out my GitHub for more about my projects. Feel free to reach out for collaborations or opportunities!</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-anand-398845284">
-    <img src="https://img.shields.io/badge/Manas%20Ranjan%20Pati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Aditya%20anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ManasDevHub" target="_blank">
+  <a href="https://github.com/AdityaDevHub" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ManasDevHub&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AdityaDevHub&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ### 🚀 Projects
