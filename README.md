@@ -12,7 +12,7 @@
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or check out my GitHub for more about my projects. Feel free to reach out for collaborations or opportunities!</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224/">
+  <a href="https://www.linkedin.com/in/aditya-anand-398845284">
     <img src="https://img.shields.io/badge/Manas%20Ranjan%20Pati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ManasDevHub" target="_blank">
